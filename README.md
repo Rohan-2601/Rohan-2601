@@ -2,16 +2,12 @@ Rohan
 
 Engineer.
 
-I build systems.
-I lift.
-I read philosophy.
+I like understanding how things work — then rebuilding them better.
+Curious by nature. Precise by habit.
 
-Currently focused on AI.
+I care about clean logic, solid systems, and work that speaks for itself.
 
-I prefer proof over claims.
-Code over noise.
-
-—
-Strong body. Clear mind. Clean code.
+I train discipline in the gym
+and perspective through philosophy.
 
 
